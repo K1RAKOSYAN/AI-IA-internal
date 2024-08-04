@@ -1,0 +1,235 @@
+Dear shareholders, colleagues, customers, and partners,
+We are living through a time of historic challenge and opportunity. As I write this, the world faces ongoing economic,
+social, and geopolitical volatility. At the same time, we have entered a new age of AI that will fundamentally transform
+productivity for every individual, organization, and industry on earth, and help us address some of our most pressing
+challenges.
+This next generation of AI will reshape every software category and every business, including our own. Forty-eight years
+after its founding, Microsoft remains a consequential company because time and time again—from PC/Server, to Web/
+Internet, to Cloud/Mobile—we have adapted to technological paradigm shifts. Today, we are doing so once again, as we
+lead this new era.
+Amid this transformation, our mission to empower every person and every organization on the planet to achieve
+more remains constant. As a company, we believe we can be the democratizing force for this new generation of
+technology and the opportunity it will help unlock for every country, community, and individual, while mitigating its risks.
+Here are just a few examples of how we are already doing this:
+• Leading electronic health records vendor Epic is addressing some of the biggest challenges facing the
+healthcare industry today—including physician burnout—by deploying a wide range of copilot solutions built
+on Azure OpenAI Service and Dragon Ambient eXperience Copilot.
+• Mercado Libre is reducing the time its developers spend writing code by more than 50 percent with GitHub
+Copilot, as the company works to democratize e-commerce across Latin America.
+• Mercedes-Benz is making its in-car voice assistant more intuitive for hundreds of thousands of drivers using
+ChatGPT via the Azure OpenAI Service.
+• Lumen Technologies is helping its employees be more productive, enabling them to focus on higher valueadded
+activities, by deploying Microsoft 365 Copilot.
+• Nonprofit The Contingent is matching foster families with children in need using Dynamics 365, Power BI, and
+Azure, with an eye on using AI to amplify its work across the US.
+• And, Taiwan’s Ministry of Education has built an online platform to help elementary and high school students
+learn English using Azure AI.
+To build on this progress, we remain convicted on three things: First, we will maintain our lead as the top commercial
+cloud while innovating in consumer categories, from gaming to professional social networks. Second, because we know
+that maximum enterprise value gets created during platform shifts like this one, we will invest to accelerate our lead in AI
+by infusing this technology across every layer of the tech stack. And, finally, we will continue to drive operating leverage,
+aligning our cost structure with our revenue growth.
+As we make progress on these priorities, we delivered strong results in fiscal year 2023, including a record $211 billion in
+revenue and over $88 billion in operating income.
+A NEW ERA OF AI
+There are two breakthroughs coming together to define this new era of AI. The first is the most universal interface: natural
+language. The long arc of computing has, in many ways, been shaped by the pursuit of increasingly intuitive humancomputer
+interfaces—keyboards, mice, touch screens. We believe we have now arrived at the next big step forward—
+natural language—and will quickly go beyond, to see, hear, interpret, and make sense of our intent and the world around
+us.
+The second is the emergence of a powerful new reasoning engine. For years, we’ve digitized daily life, places, and things
+and organized them into databases. But in a world rich with data, what has been most scarce is our ability to reason over
+it. This generation of AI helps us interact with data in powerful new ways—from completing or summarizing text, to
+detecting anomalies and recognizing images—to help us identify patterns and surface insights faster than ever.
+Together, these two breakthroughs will unlock massive new opportunity. And, in fact, just last month we announced our
+vision for Copilot, an everyday AI companion. We are building Copilot into all our most used products and experiences
+and allowing people to summon its power as a standalone app as well. Just like you boot up an OS to access applications
+or use a browser to visit websites today, our belief is that you will invoke a Copilot to do all those activities and more: to
+shop, to code, to analyze, to learn, to create.
+1
+As a company, any time we approach a transition like this, we do so responsibly. We believe AI should be as empowering
+across communities as it is powerful, and we’re committed to ensuring it is responsibly built and designed, with safety in
+mind from the outset.
+OUR OPPORTUNITY
+Every customer solution area and every layer of our tech stack will be reimagined for the AI era. And that’s exactly what
+we’ve already begun to do:
+Infrastructure
+Four years ago, we first invested in our AI supercomputer, with a goal of building the best cloud for training and inference.
+Today, it’s being used by our partner OpenAI to power its best-in-class foundation models and services, including one of
+the fastest-growing consumer apps ever—ChatGPT. NVIDIA, as well as leading AI startups like Adept and Inflection, is
+also using our infrastructure to build its own breakthrough models.
+More broadly, organizations continue to choose our ubiquitous computing fabric—from cloud to edge—to run their
+mission-critical applications. We continued to see more cloud migrations to Azure this past fiscal year, as it remains early
+when it comes to the long-term cloud opportunity. And we also continue to lead in hybrid computing with Azure Arc, which
+now has 18,000 customers.
+Data and AI
+Every AI app starts with data, and having a comprehensive data and analytics platform is more important than ever. Our
+Intelligent Data Platform brings together operational databases, analytics, and governance so organizations can spend
+more time creating value and less time integrating their data estate. We also introduced Microsoft Fabric this year, which
+unifies compute, storage, and governance with a disruptive business model.
+With Azure AI, we are making foundation models available as platforms to our customers. We offer the best selection of
+industry-leading frontier and open models. In January, we made the Azure OpenAI Service broadly available, bringing
+together advanced models, including ChatGPT and GPT-4, with the enterprise capabilities of Azure. More than 11,000
+organizations across industries are already using it for advanced scenarios like content and code generation. Meta chose
+us this summer as its preferred cloud to commercialize its Llama family of models. And, with Azure AI Studio, we provide a
+full lifecycle toolchain customers can use to ground these models on their own data, create prompt workflows, and help
+ensure they are deployed and used safely.
+Digital and app innovation
+GitHub Copilot is fundamentally transforming developer productivity, helping developers complete coding tasks 55 percent
+faster. More than 27,000 organizations have chosen GitHub Copilot for Business, and to date more than 1 million people
+have used GitHub Copilot to code faster. We also announced our vision for the future of software development with
+GitHub Copilot X, which will bring the power of AI throughout the entire software development lifecycle. All up, GitHub
+surpassed $1 billion in annual recurring revenue for the first time this fiscal year.
+We’re also applying AI across our low-code/no-code toolchain to help domain experts across an organization automate
+workflows, create apps and webpages, build virtual agents, or analyze data, using just natural language with copilots in
+Power Platform. More than 63,000 organizations have used AI-powered capabilities in Power Platform to date.
+Business applications
+We are bringing the next generation of AI to employees across every job function and every line of business with
+Dynamics 365 Copilot, which works across CRM and ERP systems to reduce burdensome tasks like manual data entry,
+content generation, and notetaking. In fact, our own support agents are using Copilot in Dynamics 365 Customer Service
+to resolve more cases faster and without having to call on peers to help. With our Supply Chain Platform, we’re helping
+customers apply AI to predict and mitigate disruptions. And, with our new Microsoft Sales Copilot, sellers can infuse their
+customer interactions with data from CRM systems—including both Salesforce and Dynamics—to close more deals.
+All up, Dynamics surpassed $5 billion in revenue over the past fiscal year, with our customer experience, service, and
+finance and supply chain businesses each surpassing $1 billion in annual sales.
+2
+Industry
+Across industries, we are rapidly becoming the partner of choice for any organization looking to generate real value from
+AI. In healthcare, for example, we introduced the world’s first fully automated clinical documentation application, DAX
+Copilot. The application helps physicians reduce documentation time by half, freeing them to spend more time face to
+face with patients. And Epic will integrate it directly into its electronic health records system.
+And, in retail, we introduced new tools to help companies manage their day-to-day operations and digitize their physical
+stores.
+Modern work
+We are rapidly evolving Microsoft 365 into an AI-first platform that enables every individual to amplify their creativity and
+productivity, with both our established applications like Office and Teams, as well as new apps like Designer, Stream, and
+Loop. Microsoft 365 is designed for today’s digitally connected, distributed workforce.
+This year, we also introduced a new pillar of customer value with Microsoft 365 Copilot, which combines next-generation
+AI with business data in the Microsoft Graph and Microsoft 365 applications to help people be more productive and
+unleash their creativity at work. Just last month, I was excited to announce that we will make Microsoft 365 Copilot
+generally available to our commercial customers later this year.
+We continue to build momentum in Microsoft Teams across collaboration, chat, meetings, and calls. We introduced a new
+version of Teams that delivers up to two times faster performance, while using 50 percent less memory. We also
+introduced Teams Premium to meet enterprise demand for AI-powered features like intelligent meeting recaps. All up,
+Teams usage surpassed 300 million monthly active users this year.
+With Microsoft Viva, we have created a new category for employee experience. Copilot in Viva offers leaders a new way
+to build high-performance teams by prioritizing both productivity and employee engagement. This year, Viva surpassed
+35 million monthly active users.
+Security
+As the rate and pace of cyberthreats continue to accelerate, security is a top priority for every organization. Our
+comprehensive, AI-powered solutions give defenders the advantage. With Security Copilot, we’re combining large
+language models with a domain-specific model informed by our threat intelligence and 65 trillion daily security signals, to
+transform every aspect of security operations center productivity.
+All up, more than 1 million organizations now count on our comprehensive, AI-powered solutions to protect their digital
+estates, and our security business surpassed $20 billion in annual revenue, as we help protect customers across clouds
+and endpoint platforms.
+Search, advertising, and news
+We are reshaping daily search and web habits with our new Bing and Microsoft Edge browser, which brings together
+search, browsing, chat, and AI into one unified experience to deliver better search, more complete answers, a new chat
+experience, and the ability to generate content. We think of these tools as an AI copilot for the web.
+We are also bringing these breakthrough capabilities to businesses, with Bing Chat Enterprise, which offers commercial
+data protection, providing an easy on-ramp for any organization looking to get the benefit of next-generation AI today.
+Although it’s early in our journey, Bing users engaged in more than 1 billion chats and created more than 750 million
+images over the past year as they apply these new tools to get things done. And Edge has taken share for nine
+consecutive quarters.
+More broadly, we continue to expand our opportunity in advertising. This year, Netflix chose us as its exclusive technology
+and sales partner for its first ad-supported subscription offering, a validation of the differentiated value we provide to any
+publisher looking for a flexible partner to build and innovate with them.
+3
+LinkedIn
+The excitement around AI is creating new opportunities across every function—from marketing, sales, service, and
+finance, to software development and security. And LinkedIn is increasingly where people are going to learn, discuss, and
+uplevel their skills. We are using AI to help our members and customers connect to opportunities and tap into the
+experiences of experts on the platform. In fact, our AI-powered articles are already the fastest-growing traffic driver to the
+network.
+All up, LinkedIn’s revenue surpassed $15 billion for the first time this fiscal year, a testament to how mission critical the
+platform has become to help more than 950 million members connect, learn, sell, and get hired.
+Gaming
+In gaming, we are rapidly executing on our ambition to be the first choice for people to play great games whenever,
+wherever, and however they want. With Xbox Game Pass, we are redefining how games are distributed, played, and
+viewed. Content is the flywheel behind the service’s growth, and our pipeline has never been stronger. It was especially
+energizing to release Starfield this fall to broad acclaim, with more than 10 million players in the first month post-launch
+alone.
+Earlier this month, we were thrilled to close our acquisition of Activision Blizzard, and we look forward to sharing more in
+the coming months about how, together, we will bring the joy of gaming to more people around the world.
+Devices and creativity
+Finally, we’re turning Windows into a powerful new AI canvas with Copilot, which rolled out as part of a Windows 11
+update last month. It uniquely incorporates the context and intelligence of the web, your work data, and what you are
+doing in the moment on your PC to provide better assistance, while keeping your privacy and security at the forefront.
+Overall, the number of devices running Windows 11 more than doubled in the past year. And we are also transforming
+how Windows is experienced and managed with Azure Virtual Desktop and Windows 365, which together surpassed
+$1 billion in annual revenue for the first time.
+OUR RESPONSIBILITY
+As we pursue our opportunity, we are also working to ensure technology helps us solve problems—not create new ones.
+To do this, we focus on four enduring commitments that are central to our mission and that take on even greater
+importance in this new era. For us, these commitments are more than just words. They’re a guide to help us make
+decisions across everything we do—as we design and develop products, shape business processes and policies, help our
+customers thrive, build partnerships, and more—always asking ourselves critical questions to ensure our actions are
+aligned with them.
+How can we expand opportunity?
+First, we believe access to economic growth and opportunity should reach every person, organization, community, and
+country. And although AI can serve as a catalyst for opportunity and growth, we must first ensure everyone has access to
+the technologies, data, and skills they need to benefit.
+To achieve this, we are focused on getting technology into the hands of nonprofits, social entrepreneurs, and other civil
+society organizations to help them digitally transform, so they can help address some of society’s biggest challenges. This
+year, we provided nonprofits with over $3.8 billion in discounted and donated technology. Nearly 325,000 nonprofits used
+our cloud. And to help them tap the potential of AI, we’re building new AI capabilities for fundraising, marketing, and
+program delivery.
+AI will displace some jobs, but it will also create new ones. That’s why we aim to train and certify 10 million people by
+2025 with the skills for jobs and livelihoods in an increasingly digital economy. Since July 2020, we’ve helped 8.5 million
+people, including 2.7 million this year. We’ve also focused on skilling women and underrepresented communities in
+cybersecurity, working across 28 countries and with nearly 400 US community colleges to scale our efforts.
+Finally, to help people learn more about AI, we launched the first online Professional Certificate on Generative AI in
+partnership with LinkedIn Learning, created AI tools for educators, and held our first AI Community Learning event in the
+US. These events will be replicated around the world and localized in 10 languages over the next year. We also partnered
+to launch a Generative AI Skills Grant Challenge to explore how nonprofit, social enterprise, and research or academic
+institutions can empower the workforce to use this new generation of AI.
+4
+How can we earn trust?
+To create positive impact with technology, people need to be able to trust the technologies they use and the companies
+behind them. For us, earning trust spans the responsible use of AI, protecting privacy, and advancing digital safety and
+cybersecurity.
+Our commitment to responsible AI is not new. Since 2017, we’ve worked to develop our responsible AI practice,
+recognizing that trust is never given but earned through action.
+We have translated our AI principles into a core set of implementation processes, as well as tools, training, and practices
+to support compliance. But internal programs aren’t enough. We also enable our customers and partners to develop and
+deploy AI safely, including through our AI customer commitments and services like Azure AI Studio, with its content safety
+tooling and access to our Responsible AI dashboard.
+Building AI responsibly requires that we work with other industry leaders, civil society, and governments to advocate for AI
+regulations and governance globally. This year, we released our Governing AI Blueprint, which outlines concrete legal and
+policy recommendations for AI guardrails. We are signatories to the eight voluntary commitments developed with the US
+White House, and proud of the six additional commitments we’ve made to further strengthen and operationalize the
+principles of safety, security, and trust.
+The era of AI heightens the importance of cybersecurity, and we deepened our work across the private and public sectors
+to improve cyber-resilience. We’ve continued to support Ukraine in defending critical infrastructure, detecting and
+disrupting cyberattacks and cyberinfluence operations, and providing intelligence related to these attacks. Our Microsoft
+Threat Analysis Center team produced more than 500 intelligence reports to help keep customers and the public
+informed. And we published our third annual Microsoft Digital Defense Report, sharing our learnings and security
+recommendations.
+We also remain committed to creating safe experiences online and protecting customers from illegal and harmful content
+and conduct, while respecting human rights. We supported the Christchurch Call Initiative on Algorithmic Outcomes to
+address terrorist and violent and extremist content online. And through the World Economic Forum’s Global Coalition for
+Digital Safety, we co-led the development of new global principles for digital safety.
+Protecting customers’ privacy and giving them control of their data is more important than ever. We’ve begun our phased
+rollout of the EU Data Boundary, supporting our commercial and public sector customers’ need for data sovereignty. And
+each month, more than 3 million people exercise their data protection rights through our privacy dashboard, making
+meaningful choices about how their data is used.
+How can we protect fundamental rights?
+In an increasingly digital world, we have a responsibility to promote and protect people’s fundamental rights and address
+the challenges technology creates. For us, this means upholding responsible business practices, expanding connectivity
+and accessibility, advancing fair and inclusive societies, and empowering communities.
+In 2023, we worked diligently to anticipate harmful uses of our technology and put guardrails on the use of technologies
+that are consequential to people’s lives or legal status, create risk of harm, or threaten human rights. We will continue to
+assess the impact of our technologies, engage our stakeholders, and model and adopt responsible practices and respect
+for human rights—including across our global supply chain.
+Today, our lives are more connected than ever. Access to education, employment, healthcare, and other critical services is
+increasingly dependent on technology. That’s why we’ve expanded our commitment to bring access to affordable highspeed
+internet to a quarter of a billion people around the world, including 100 million people in Africa, by the end of 2025.
+Since 2017, we’ve helped bring internet access to 63 million people, a key first step to ensuring communities will have
+access to AI and other digital technologies.
+This year, we also continued working toward our five-year commitment to bridge the disability divide with a focus on
+helping close the accessibility knowledge gap. Seven hundred and fifty-thousand learners enriched their understanding of
+disability and accessibility in partnership with LinkedIn Learning, Teach Access, and the Microsoft disability community.
+In addition, we’re stepping up efforts to combat online disinformation through new media content provenance technologies
+—enabling users to verify if an image or video was generated by AI. We continued our efforts to promote racial equity
+across Microsoft, our ecosystem, and our communities, including our work to advance justice reform through data-driven
